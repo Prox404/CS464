@@ -1,0 +1,7 @@
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_XoaDau\obj\Debug\Lab2_XoaDau.csprojAssemblyReference.cache
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_XoaDau\obj\Debug\Lab2_XoaDau.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_XoaDau\bin\Debug\Lab2_XoaDau.exe.config
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_XoaDau\bin\Debug\Lab2_XoaDau.exe
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_XoaDau\bin\Debug\Lab2_XoaDau.pdb
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_XoaDau\obj\Debug\Lab2_XoaDau.exe
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_XoaDau\obj\Debug\Lab2_XoaDau.pdb

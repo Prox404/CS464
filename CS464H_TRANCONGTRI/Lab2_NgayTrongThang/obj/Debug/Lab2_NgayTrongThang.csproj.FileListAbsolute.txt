@@ -1,0 +1,7 @@
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_NgayTrongThang\bin\Debug\Lab2_NgayTrongThang.exe.config
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_NgayTrongThang\bin\Debug\Lab2_NgayTrongThang.exe
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_NgayTrongThang\bin\Debug\Lab2_NgayTrongThang.pdb
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_NgayTrongThang\obj\Debug\Lab2_NgayTrongThang.csprojAssemblyReference.cache
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_NgayTrongThang\obj\Debug\Lab2_NgayTrongThang.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_NgayTrongThang\obj\Debug\Lab2_NgayTrongThang.exe
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_NgayTrongThang\obj\Debug\Lab2_NgayTrongThang.pdb
