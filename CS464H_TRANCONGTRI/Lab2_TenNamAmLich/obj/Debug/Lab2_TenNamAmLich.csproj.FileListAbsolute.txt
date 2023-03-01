@@ -1,0 +1,7 @@
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_TenNamAmLich\bin\Debug\Lab2_TenNamAmLich.exe.config
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_TenNamAmLich\bin\Debug\Lab2_TenNamAmLich.exe
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_TenNamAmLich\bin\Debug\Lab2_TenNamAmLich.pdb
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_TenNamAmLich\obj\Debug\Lab2_TenNamAmLich.csprojAssemblyReference.cache
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_TenNamAmLich\obj\Debug\Lab2_TenNamAmLich.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_TenNamAmLich\obj\Debug\Lab2_TenNamAmLich.exe
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab2_TenNamAmLich\obj\Debug\Lab2_TenNamAmLich.pdb
