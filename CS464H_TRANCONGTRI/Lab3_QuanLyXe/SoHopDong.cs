@@ -27,15 +27,7 @@ namespace Lab3_QuanLyXe
 			dsHopDong = new Dictionary<string, HopDongChoThue>();
 		}
 
-		public static void Luu(){
-			HopDongChoThue hopDong = new HopDongChoThue();
-			hopDong.Nhap();
-			dsHopDong.Add(hopDong.SoHopDong, hopDong);
-		}
-
-		public static void Tim(SoHopDong soHopDong){
 			
-		}	
 
 	}
 }
