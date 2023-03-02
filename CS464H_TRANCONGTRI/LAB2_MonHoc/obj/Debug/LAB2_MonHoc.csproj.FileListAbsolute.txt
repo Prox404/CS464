@@ -1,0 +1,7 @@
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\LAB2_MonHoc\obj\Debug\LAB2_MonHoc.csprojAssemblyReference.cache
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\LAB2_MonHoc\obj\Debug\LAB2_MonHoc.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\LAB2_MonHoc\bin\Debug\LAB2_MonHoc.exe.config
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\LAB2_MonHoc\bin\Debug\LAB2_MonHoc.exe
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\LAB2_MonHoc\bin\Debug\LAB2_MonHoc.pdb
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\LAB2_MonHoc\obj\Debug\LAB2_MonHoc.exe
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\LAB2_MonHoc\obj\Debug\LAB2_MonHoc.pdb

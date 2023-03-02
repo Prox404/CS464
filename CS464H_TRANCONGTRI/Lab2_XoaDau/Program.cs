@@ -45,8 +45,8 @@ namespace Lab2_XoaDau
 			Console.WriteLine("Nhap thu trong tuan: ");
 			string thu = Console.ReadLine();
 
-			thu = thu.ToLower();
 			thu = RemoveUnicode(thu);
+			thu = thu.ToLower();
 
 			//Console.WriteLine(thu);
 
