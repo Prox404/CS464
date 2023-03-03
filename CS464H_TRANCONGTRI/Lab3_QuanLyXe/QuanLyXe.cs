@@ -71,6 +71,18 @@ namespace Lab3_QuanLyXe
 			}
 		}
 
+		public Xe TimXe(string bienSo)
+		{
+			if (dsXe.ContainsKey(bienSo))
+			{
+				return dsXe[bienSo];
+			}
+			else
+			{
+				return null;
+			}
+		}
+
 		public void Xoa(string bienSo)
 		{
 			if (dsXe.ContainsKey(bienSo))
