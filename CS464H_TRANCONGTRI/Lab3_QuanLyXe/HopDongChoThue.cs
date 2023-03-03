@@ -68,11 +68,12 @@ namespace Lab3_QuanLyXe
 			}
 			else if (xe is XeDuLich)
 			{
-				if (xe.SoCho <= 5)
+				XeDuLich xeDuLich = xe as XeDuLich;
+				if (xeDuLich.SoChoNgoi <= 5)
 				{
 					donGia = 500000;
 				}
-				else if (xe.SoCho <= 7)
+				else if (xeDuLich.SoChoNgoi <= 7)
 				{
 					donGia = 700000;
 				}
@@ -103,7 +104,11 @@ namespace Lab3_QuanLyXe
 				Console.WriteLine("Khong tim thay xe co bien so {0}", bienSo);
 			}
 		}
-		
-		 
+
+		public void Xuat(){
+			xe.Xuat();
+			Console.WriteLine("Thanh tien: {0}", ThanhTien());
+			
+		} 
 	}
 }

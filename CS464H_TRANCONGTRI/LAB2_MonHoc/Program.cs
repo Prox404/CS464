@@ -11,7 +11,7 @@ namespace LAB2_MonHoc
 
 		public static Dictionary<string, MonHoc> insertIntoPosition(int position, MonHoc monHoc, Dictionary<string, MonHoc> dsMonHoc)
 		{
-			if (position < 0 || position > dsMonHoc.Count)
+			if (position <= 0 || position > dsMonHoc.Count)
 			{
 				Console.WriteLine("Vi tri khong hop le");
 				return dsMonHoc;
