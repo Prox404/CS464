@@ -27,7 +27,5 @@ namespace Lab3_QuanLyXe
 			dsHopDong = new Dictionary<string, HopDongChoThue>();
 		}
 
-			
-
 	}
 }
