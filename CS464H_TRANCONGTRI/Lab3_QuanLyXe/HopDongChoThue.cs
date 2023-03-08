@@ -87,6 +87,7 @@ namespace Lab3_QuanLyXe
 
 		public void Nhap()
 		{
+			quanLyXe.Nhap();
 			Console.Write("Nhap so hop dong: ");
 			soHopDong = Console.ReadLine();
 			Console.Write("Nhap bien so xe: ");
@@ -108,7 +109,8 @@ namespace Lab3_QuanLyXe
 		public void Xuat(){
 			xe.Xuat();
 			Console.WriteLine("Thanh tien: {0}", ThanhTien());
-			
+			nhanVien.Xuat();
+			khachHang.Xuat();
 		} 
 	}
 }
