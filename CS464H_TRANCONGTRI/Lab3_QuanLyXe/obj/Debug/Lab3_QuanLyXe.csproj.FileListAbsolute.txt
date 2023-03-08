@@ -1,0 +1,7 @@
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab3_QuanLyXe\bin\Debug\Lab3_QuanLyXe.exe.config
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab3_QuanLyXe\bin\Debug\Lab3_QuanLyXe.exe
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab3_QuanLyXe\bin\Debug\Lab3_QuanLyXe.pdb
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab3_QuanLyXe\obj\Debug\Lab3_QuanLyXe.csprojAssemblyReference.cache
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab3_QuanLyXe\obj\Debug\Lab3_QuanLyXe.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab3_QuanLyXe\obj\Debug\Lab3_QuanLyXe.exe
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab3_QuanLyXe\obj\Debug\Lab3_QuanLyXe.pdb
