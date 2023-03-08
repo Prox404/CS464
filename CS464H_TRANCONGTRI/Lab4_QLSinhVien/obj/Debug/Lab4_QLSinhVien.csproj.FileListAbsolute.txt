@@ -1,0 +1,7 @@
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab4_QLSinhVien\obj\Debug\Lab4_QLSinhVien.csprojAssemblyReference.cache
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab4_QLSinhVien\obj\Debug\Lab4_QLSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab4_QLSinhVien\bin\Debug\Lab4_QLSinhVien.exe.config
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab4_QLSinhVien\bin\Debug\Lab4_QLSinhVien.exe
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab4_QLSinhVien\bin\Debug\Lab4_QLSinhVien.pdb
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab4_QLSinhVien\obj\Debug\Lab4_QLSinhVien.exe
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab4_QLSinhVien\obj\Debug\Lab4_QLSinhVien.pdb
