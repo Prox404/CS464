@@ -64,6 +64,7 @@ namespace Lab4_QLSinhVien
 			QLSinhVien qlsv = new QLSinhVien();
 			qlsv.Nhap();
 			qlsv.Xuat();
+			qlsv.dem();
 
 			Console.ReadKey();
 
