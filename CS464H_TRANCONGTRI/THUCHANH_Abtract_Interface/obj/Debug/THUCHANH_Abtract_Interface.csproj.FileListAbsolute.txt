@@ -1,0 +1,21 @@
+E:\Giang day\GiangDay_Winform HOC\HUONG DOI TUONG\THUCHANH_Abtract_Interface\THUCHANH_Abtract_Interface\bin\Debug\THUCHANH_Abtract_Interface.exe.config
+E:\Giang day\GiangDay_Winform HOC\HUONG DOI TUONG\THUCHANH_Abtract_Interface\THUCHANH_Abtract_Interface\obj\Debug\THUCHANH_Abtract_Interface.csprojResolveAssemblyReference.cache
+E:\Giang day\GiangDay_Winform HOC\HUONG DOI TUONG\THUCHANH_Abtract_Interface\THUCHANH_Abtract_Interface\bin\Debug\THUCHANH_Abtract_Interface.exe
+E:\Giang day\GiangDay_Winform HOC\HUONG DOI TUONG\THUCHANH_Abtract_Interface\THUCHANH_Abtract_Interface\bin\Debug\THUCHANH_Abtract_Interface.pdb
+E:\Giang day\GiangDay_Winform HOC\HUONG DOI TUONG\THUCHANH_Abtract_Interface\THUCHANH_Abtract_Interface\obj\Debug\THUCHANH_Abtract_Interface.exe
+E:\Giang day\GiangDay_Winform HOC\HUONG DOI TUONG\THUCHANH_Abtract_Interface\THUCHANH_Abtract_Interface\obj\Debug\THUCHANH_Abtract_Interface.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\CODE_THUCHANH_Abtract_Interface\THUCHANH_Abtract_Interface\bin\Debug\THUCHANH_Abtract_Interface.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\CODE_THUCHANH_Abtract_Interface\THUCHANH_Abtract_Interface\obj\Debug\THUCHANH_Abtract_Interface.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\CODE_THUCHANH_Abtract_Interface\THUCHANH_Abtract_Interface\obj\Debug\THUCHANH_Abtract_Interface.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\CODE_THUCHANH_Abtract_Interface\THUCHANH_Abtract_Interface\bin\Debug\THUCHANH_Abtract_Interface.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\CODE_THUCHANH_Abtract_Interface\THUCHANH_Abtract_Interface\obj\Debug\THUCHANH_Abtract_Interface.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\CODE_THUCHANH_Abtract_Interface\THUCHANH_Abtract_Interface\obj\Debug\THUCHANH_Abtract_Interface.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide6_CODE_THUCHANH_Abtract_Interface\THUCHANH_Abtract_Interface\bin\Debug\THUCHANH_Abtract_Interface.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide6_CODE_THUCHANH_Abtract_Interface\THUCHANH_Abtract_Interface\obj\Debug\THUCHANH_Abtract_Interface.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide6_CODE_THUCHANH_Abtract_Interface\THUCHANH_Abtract_Interface\obj\Debug\THUCHANH_Abtract_Interface.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide6_CODE_THUCHANH_Abtract_Interface\THUCHANH_Abtract_Interface\bin\Debug\THUCHANH_Abtract_Interface.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide6_CODE_THUCHANH_Abtract_Interface\THUCHANH_Abtract_Interface\bin\Debug\THUCHANH_Abtract_Interface.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide6_CODE_THUCHANH_Abtract_Interface\THUCHANH_Abtract_Interface\obj\Debug\THUCHANH_Abtract_Interface.csprojResolveAssemblyReference.cache
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide6_qlNhanVien_Abtract_Interface\THUCHANH_Abtract_Interface\bin\Debug\THUCHANH_Abtract_Interface.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide6_qlNhanVien_Abtract_Interface\THUCHANH_Abtract_Interface\obj\Debug\THUCHANH_Abtract_Interface.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Code cho cac Slide\Slide6_qlNhanVien_Abtract_Interface\THUCHANH_Abtract_Interface\obj\Debug\THUCHANH_Abtract_Interface.pdb
