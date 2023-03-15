@@ -27,5 +27,29 @@ namespace Lab3_QuanLyXe
 			dsHopDong = new Dictionary<string, HopDongChoThue>();
 		}
 
+		public void Luu(){
+			HopDongChoThue hopDong = new HopDongChoThue();
+			hopDong.Nhap();
+			dsHopDong.Add(hopDong.SoHopDong, hopDong);
+		}
+
+		public HopDongChoThue Tim(string maHopDong){
+			if (dsHopDong.ContainsKey(maHopDong))
+			{
+				return dsHopDong[maHopDong];
+			}
+			return null;
+		}
+
+		public void Xoa(string maHopDong){
+			if (dsHopDong.ContainsKey(maHopDong))
+			{
+				dsHopDong.Remove(maHopDong);
+				Console.WriteLine("Xoa thanh cong!");
+			}
+			else{
+				Console.WriteLine("Khong co hop dong nay!");
+			}
+		}
 	}
 }

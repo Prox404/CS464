@@ -45,7 +45,7 @@ namespace Lab4_QLSinhVien
 					diemEE205 = Double.Parse(Console.ReadLine());
 					break;
 				}
-				catch (Exception e)
+				catch
 				{
 					Console.WriteLine("Diem khong hop le, vui long nhap lai!");
 				}
