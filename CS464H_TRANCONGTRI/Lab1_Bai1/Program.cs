@@ -24,7 +24,7 @@ namespace Lab1_Bai1
                 {
                     ngaySinh = DateTime.Parse(Console.ReadLine()); break;
                 }
-                catch (Exception ex)
+                catch
                 {
                     Console.WriteLine("Nhập sai định dạng, vui lòng nhập lại!");
                 }

@@ -99,6 +99,9 @@ namespace Lab3_QuanLyXe
 				nhanVien.Nhap();
 				Console.WriteLine("Nhap thong tin khach hang: ");
 				khachHang.Nhap();
+				
+				Console.Write("Nhap so ngay thue: ");
+				soNgayThue = int.Parse(Console.ReadLine());
 			}
 			else
 			{
@@ -112,5 +115,6 @@ namespace Lab3_QuanLyXe
 			nhanVien.Xuat();
 			khachHang.Xuat();
 		} 
+
 	}
 }
