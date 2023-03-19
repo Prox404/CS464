@@ -31,5 +31,10 @@ namespace Lab5_UIChua
 		{
 
 		}
+
+		private void checkBox5_CheckedChanged(object sender, EventArgs e)
+		{
+
+		}
 	}
 }
