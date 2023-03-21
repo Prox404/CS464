@@ -39,9 +39,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5_Cau2", "Lab5_Cau2\Lab5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5_Cau3", "Lab5_Bai3\Lab5_Cau3.csproj", "{310C2BBF-E8AD-482E-9465-AD5738961125}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3_Cau4", "Lab3_GiaiPTBac2\Lab3_Cau4.csproj", "{0047BB49-B16B-46F9-BA92-84058A4CB93B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5_Cau4", "Lab3_GiaiPTBac2\Lab5_Cau4.csproj", "{0047BB49-B16B-46F9-BA92-84058A4CB93B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5_Bai5", "Lab5_Bai5\Lab5_Bai5.csproj", "{95D094A1-F79D-45E3-A6CA-4E7A20666C3E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5_Cau5", "Lab5_Bai5\Lab5_Cau5.csproj", "{95D094A1-F79D-45E3-A6CA-4E7A20666C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6_Cau1", "Lab6_Cau1\Lab6_Cau1.csproj", "{13C0AFAF-619B-402D-9A2D-2928C351D7E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{95D094A1-F79D-45E3-A6CA-4E7A20666C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95D094A1-F79D-45E3-A6CA-4E7A20666C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95D094A1-F79D-45E3-A6CA-4E7A20666C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C0AFAF-619B-402D-9A2D-2928C351D7E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C0AFAF-619B-402D-9A2D-2928C351D7E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C0AFAF-619B-402D-9A2D-2928C351D7E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C0AFAF-619B-402D-9A2D-2928C351D7E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
