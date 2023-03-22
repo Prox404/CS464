@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.RegularExpressions;
 using System.Windows.Forms;
 
 namespace Lab5_Bai5
@@ -63,11 +64,16 @@ namespace Lab5_Bai5
 			string mangA = txt_MangA.Text.Trim();
 			string[] parts = mangA.Split(' ');
 			int[] mangCacSoA = new int[parts.Length];
+			string pattern = @"\d+";
+			Regex rgx = new Regex(pattern);
 
 			for (int i = 0; i < parts.Length; i++)
 			{
 				try {
-					mangCacSoA[i] = int.Parse(parts[i]);
+					if (rgx.IsMatch(parts[i]))
+					{
+						mangCacSoA[i] = int.Parse(parts[i]);
+					}
 				}
 				catch
 				{
