@@ -40,5 +40,19 @@ namespace Lab7_Cau1
 				Application.OpenForms["SinhVien"].Activate();
 			}
 		}
+
+		private void thôngTinKháchHàngToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+			if (Application.OpenForms["Khachhang"] == null)
+			{
+				Khachhang sv = new Khachhang();
+				sv.MdiParent = this;
+				sv.Show();
+			}
+			else
+			{
+				Application.OpenForms["Khachhang"].Activate();
+			}
+		}
 	}
 }

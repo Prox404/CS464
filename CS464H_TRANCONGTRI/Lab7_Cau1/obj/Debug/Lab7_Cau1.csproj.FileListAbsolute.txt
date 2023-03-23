@@ -9,3 +9,4 @@ C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab7_Ca
 C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab7_Cau1\obj\Debug\Lab7_Cau1.exe
 C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab7_Cau1\obj\Debug\Lab7_Cau1.pdb
 C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab7_Cau1\obj\Debug\Lab7_Cau1.SinhVien.resources
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab7_Cau1\obj\Debug\Lab7_Cau1.Khachhang.resources
