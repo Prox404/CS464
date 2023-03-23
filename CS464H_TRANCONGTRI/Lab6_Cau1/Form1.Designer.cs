@@ -40,7 +40,7 @@
 			// lib_A
 			// 
 			this.lib_A.FormattingEnabled = true;
-			//this.lib_A.SelectionMode = System.Windows.Forms.SelectionMode.MultiExtended;
+			this.lib_A.SelectionMode = System.Windows.Forms.SelectionMode.MultiExtended;
 			this.lib_A.Items.AddRange(new object[] {
             "Trí đẹp trai",
             "Trí sợ ma",
@@ -55,7 +55,6 @@
 			this.lib_A.Name = "lib_A";
 			this.lib_A.Size = new System.Drawing.Size(200, 303);
 			this.lib_A.TabIndex = 0;
-			this.lib_A.SelectedIndexChanged += new System.EventHandler(this.lib_A_SelectedIndexChanged);
 			// 
 			// lib_B
 			// 
@@ -64,7 +63,6 @@
 			this.lib_B.Name = "lib_B";
 			this.lib_B.Size = new System.Drawing.Size(200, 303);
 			this.lib_B.TabIndex = 1;
-			this.lib_B.SelectedIndexChanged += new System.EventHandler(this.lib_B_SelectedIndexChanged);
 			// 
 			// btn_1
 			// 
