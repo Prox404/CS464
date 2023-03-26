@@ -31,8 +31,8 @@
 			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
 			this.label5 = new System.Windows.Forms.Label();
 			this.textBox3 = new System.Windows.Forms.TextBox();
-			this.radioButton3 = new System.Windows.Forms.RadioButton();
-			this.radioButton1 = new System.Windows.Forms.RadioButton();
+			this.rdo_GiamDan = new System.Windows.Forms.RadioButton();
+			this.rdo_TangDan = new System.Windows.Forms.RadioButton();
 			this.label4 = new System.Windows.Forms.Label();
 			this.button1 = new System.Windows.Forms.Button();
 			this.btn_Xoa = new System.Windows.Forms.Button();
@@ -68,28 +68,31 @@
 			this.textBox3.Name = "textBox3";
 			this.textBox3.Size = new System.Drawing.Size(161, 20);
 			this.textBox3.TabIndex = 63;
+			this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
 			// 
-			// radioButton3
+			// rdo_GiamDan
 			// 
-			this.radioButton3.AutoSize = true;
-			this.radioButton3.Location = new System.Drawing.Point(266, 363);
-			this.radioButton3.Name = "radioButton3";
-			this.radioButton3.Size = new System.Drawing.Size(70, 17);
-			this.radioButton3.TabIndex = 62;
-			this.radioButton3.TabStop = true;
-			this.radioButton3.Text = "Giam dan";
-			this.radioButton3.UseVisualStyleBackColor = true;
+			this.rdo_GiamDan.AutoSize = true;
+			this.rdo_GiamDan.Location = new System.Drawing.Point(266, 363);
+			this.rdo_GiamDan.Name = "rdo_GiamDan";
+			this.rdo_GiamDan.Size = new System.Drawing.Size(70, 17);
+			this.rdo_GiamDan.TabIndex = 62;
+			this.rdo_GiamDan.TabStop = true;
+			this.rdo_GiamDan.Text = "Giam dan";
+			this.rdo_GiamDan.UseVisualStyleBackColor = true;
+			this.rdo_GiamDan.CheckedChanged += new System.EventHandler(this.rdo_GiamDan_CheckedChanged);
 			// 
-			// radioButton1
+			// rdo_TangDan
 			// 
-			this.radioButton1.AutoSize = true;
-			this.radioButton1.Location = new System.Drawing.Point(266, 340);
-			this.radioButton1.Name = "radioButton1";
-			this.radioButton1.Size = new System.Drawing.Size(71, 17);
-			this.radioButton1.TabIndex = 61;
-			this.radioButton1.TabStop = true;
-			this.radioButton1.Text = "Tang dan";
-			this.radioButton1.UseVisualStyleBackColor = true;
+			this.rdo_TangDan.AutoSize = true;
+			this.rdo_TangDan.Location = new System.Drawing.Point(266, 340);
+			this.rdo_TangDan.Name = "rdo_TangDan";
+			this.rdo_TangDan.Size = new System.Drawing.Size(71, 17);
+			this.rdo_TangDan.TabIndex = 61;
+			this.rdo_TangDan.TabStop = true;
+			this.rdo_TangDan.Text = "Tang dan";
+			this.rdo_TangDan.UseVisualStyleBackColor = true;
+			this.rdo_TangDan.CheckedChanged += new System.EventHandler(this.rdo_TangDan_CheckedChanged);
 			// 
 			// label4
 			// 
@@ -230,8 +233,10 @@
 			this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
 			this.dataGridView1.Location = new System.Drawing.Point(142, 424);
 			this.dataGridView1.Name = "dataGridView1";
+			this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
 			this.dataGridView1.Size = new System.Drawing.Size(520, 150);
 			this.dataGridView1.TabIndex = 65;
+			this.dataGridView1.RowHeaderMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dataGridView1_RowHeaderMouseClick);
 			// 
 			// Form1
 			// 
@@ -241,8 +246,8 @@
 			this.Controls.Add(this.dataGridView1);
 			this.Controls.Add(this.label5);
 			this.Controls.Add(this.textBox3);
-			this.Controls.Add(this.radioButton3);
-			this.Controls.Add(this.radioButton1);
+			this.Controls.Add(this.rdo_GiamDan);
+			this.Controls.Add(this.rdo_TangDan);
 			this.Controls.Add(this.label4);
 			this.Controls.Add(this.button1);
 			this.Controls.Add(this.btn_Xoa);
@@ -272,8 +277,8 @@
 
 		private System.Windows.Forms.Label label5;
 		private System.Windows.Forms.TextBox textBox3;
-		private System.Windows.Forms.RadioButton radioButton3;
-		private System.Windows.Forms.RadioButton radioButton1;
+		private System.Windows.Forms.RadioButton rdo_GiamDan;
+		private System.Windows.Forms.RadioButton rdo_TangDan;
 		private System.Windows.Forms.Label label4;
 		private System.Windows.Forms.Button button1;
 		private System.Windows.Forms.Button btn_Xoa;
