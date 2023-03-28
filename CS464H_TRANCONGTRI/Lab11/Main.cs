@@ -11,11 +11,11 @@ using System.IO;
 
 namespace Lab11
 {
-	public partial class Form1 : Form
+	public partial class Main : Form
 	{
 		Connection lopchung = new Connection();
 		string duongdan = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + @"\Resources\";
-		public Form1()
+		public Main()
 		{
 			InitializeComponent();
 		}
