@@ -9,3 +9,5 @@ C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab12\o
 C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab12\obj\Debug\Lab12.pdb
 C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab12\obj\Debug\Lab12.Main.resources
 C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab12\obj\Debug\Lab12.DangNhap.resources
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab12\obj\Debug\Lab12.DanhSachSinhVien.resources
+C:\Users\Hoang Luu\OneDrive - ctnprox\Documents\CS464\CS464H_TRANCONGTRI\Lab12\obj\Debug\Lab12.Khoa.resources

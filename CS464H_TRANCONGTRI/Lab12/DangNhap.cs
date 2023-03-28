@@ -26,8 +26,8 @@ namespace Lab12
 			String taiKhoan = txt_TaiKhoan.Text;
 			String matKhau = txt_MatKhau.Text;
 
-			//try
-			//{
+			try
+			{
 				conn.Connect();
 				String sql = "SELECT * FROM ThongTinTaiKhoan WHERE TaiKhoan = '" + taiKhoan + "' AND MatKhau = '" + matKhau + "'";
 				DataTable dt = conn.getData(sql);
@@ -50,11 +50,11 @@ namespace Lab12
 					MessageBox.Show("Bạn đã nhập sai " + soLanNhap + " lần!");
 				}
 
-			//}
-			//catch (System.Exception)
-			//{
-			//	throw new System.Exception("Lỗi kết nối");
-			//}
+			}
+			catch (System.Exception)
+			{
+				throw new System.Exception("Lỗi kết nối");
+			}
 		}
 	}
 }

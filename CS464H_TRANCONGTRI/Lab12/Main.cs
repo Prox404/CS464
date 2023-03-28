@@ -16,5 +16,33 @@ namespace Lab12
 		{
 			InitializeComponent();
 		}
+
+		private void danhSáchSinhViênToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+			if (Application.OpenForms["DanhSachSinhVien"] == null)
+			{
+				DanhSachSinhVien sv = new DanhSachSinhVien();
+				sv.MdiParent = this;
+				sv.Show();
+			}
+			else
+			{
+				Application.OpenForms["DanhSachSinhVien"].Activate();
+			}
+		}
+
+		private void hồSơKhoaToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+			if (Application.OpenForms["Khoa"] == null)
+			{
+				Khoa k = new Khoa();
+				k.MdiParent = this;
+				k.Show();
+			}
+			else
+			{
+				Application.OpenForms["Khoa"].Activate();
+			}
+		}
 	}
 }
