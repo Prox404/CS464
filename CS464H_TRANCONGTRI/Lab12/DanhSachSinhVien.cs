@@ -38,7 +38,6 @@ namespace Lab12
 
 		private void DanhSachSinhVien_Load(object sender, EventArgs e)
 		{
-			LoadData();
 			try
 			{
 				conn.Connect();
@@ -52,6 +51,8 @@ namespace Lab12
 			{
 				throw new System.Exception("Loi ket noi");
 			}
+			LoadData();
+			
 			
 		}
 
@@ -160,6 +161,25 @@ namespace Lab12
 				date_NgaySinh.Value = DateTime.Parse(dataGridView1.Rows[index].Cells[3].Value.ToString());
 				cb_Khoa.Text = dataGridView1.Rows[index].Cells[4].Value.ToString();
 				txt_Lop.Text = dataGridView1.Rows[index].Cells[5].Value.ToString();
+			}
+		}
+
+		private void cb_Khoa_SelectedIndexChanged(object sender, EventArgs e)
+		{
+			string Khoa = cb_Khoa.Text;
+
+			string sql = "SELECT * FROM SinhVien WHERE TenKhoa = N'" + Khoa + "'";
+
+			try
+			{
+				conn.Connect();
+				DataTable dt = conn.getData(sql);
+				dataGridView1.DataSource = dt;
+				conn.close();
+			}
+			catch (System.Exception)
+			{
+				throw new System.Exception("Loi ket noi");
 			}
 		}
 	}

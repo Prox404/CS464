@@ -157,6 +157,7 @@
 			this.cb_Khoa.Name = "cb_Khoa";
 			this.cb_Khoa.Size = new System.Drawing.Size(202, 21);
 			this.cb_Khoa.TabIndex = 73;
+			this.cb_Khoa.SelectedIndexChanged += new System.EventHandler(this.cb_Khoa_SelectedIndexChanged);
 			// 
 			// label3
 			// 
